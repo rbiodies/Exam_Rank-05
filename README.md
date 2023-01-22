@@ -8,7 +8,6 @@ The aim of the modules is to make classes.
 ```
 cd cpp_module_<number>
 bash test.sh
-cd ..
 ```
 ## Example
 ```
